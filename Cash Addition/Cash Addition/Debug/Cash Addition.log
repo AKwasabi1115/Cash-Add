@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\id student\documents\visual studio 2015\projects\cash addition\cash addition\source.cpp(43): warning C4805: '==': unsafe mix of type 'bool' and type 'const char [4]' in operation
+c:\users\id student\documents\visual studio 2015\projects\cash addition\cash addition\source.cpp(43): error C2446: '==': no conversion from 'const char *' to 'int'
+  c:\users\id student\documents\visual studio 2015\projects\cash addition\cash addition\source.cpp(43): note: There is no context in which this conversion is possible
+c:\users\id student\documents\visual studio 2015\projects\cash addition\cash addition\source.cpp(47): warning C4805: '==': unsafe mix of type 'bool' and type 'const char [3]' in operation
+c:\users\id student\documents\visual studio 2015\projects\cash addition\cash addition\source.cpp(47): error C2446: '==': no conversion from 'const char *' to 'int'
+  c:\users\id student\documents\visual studio 2015\projects\cash addition\cash addition\source.cpp(47): note: There is no context in which this conversion is possible
